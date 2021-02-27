@@ -22,12 +22,12 @@ Search for the course torrent file with exact course name + torrent download on 
 
 #### Convet .torrent to magnet link:
 
-[Torrent &gt;&gt; Magnet (torrent2magnet.com)](http://torrent2magnet.com/) use this site to generate magnet link from .torrent file.
-
-On some sites you can find magnet link iteself instead of .torrent file. That will also do the work.
+[Torrent &gt;&gt; Magnet (torrent2magnet.com)](http://torrent2magnet.com/) use this site to generate magnet link from .torrent file. On some sites you can find magnet link iteself instead of .torrent file. That will also do the work.
 
 **Notes**:
 
 1. Use at own risk. Google collab is not meant for downloading pirated material
 2. Use spare google account for larger files
 3. Wait some time to collab to collect the meta data. Sometimes it might take time. You can close the window once you start running it
+4. You can use it download any torrent file without risk of viruses. Udemy courses is one of them
+5. No issue of malwares as you are only downloading .torrent file and not even opening it. Let Google handle all the security issues
