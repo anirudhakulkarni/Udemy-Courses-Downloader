@@ -1,8 +1,13 @@
 # Udemy Courses Downloader
 
-This is to download files with torrents without need to install any third party tool
+This is to download files with torrents without need to install any third party tool. This uses google collab to download the files using python library for torrents and stores it in your google drive. You can download selected material out the whole bunch of files or just watch it online.
 
-Steps:
+#### limitations:
+
+1. Collab might not like utilising its resources to download pirated content
+2. limited to maximum drive storage of 15 GB.
+
+### Steps:
 
 1. Get torrent file of the course
 2. Generate magnet link from .torrent file
@@ -21,4 +26,8 @@ Search for the course torrent file with exact course name + torrent download on 
 
 On some sites you can find magnet link iteself instead of .torrent file. That will also do the work.
 
-**Note**: Use at own risk. Google collab is not meant for downloading pirated material
+**Notes**:
+
+1. Use at own risk. Google collab is not meant for downloading pirated material
+2. Use spare google account for larger files
+3. Wait some time to collab to collect the meta data. Sometimes it might take time. You can close the window once you start running it
