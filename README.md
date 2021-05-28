@@ -1,6 +1,6 @@
 # Udemy Courses Downloader
 
-This is to download files with torrents without need to install any third party tool. This uses google collab to download the files using python library for torrents and stores it in your google drive. You can download selected material out the whole bunch of files or just watch it online.
+This is to download Udemy courses for free of cost with torrents without need to install any third party tool. This uses google collab to download the files using python library for torrents and stores it in your google drive. You can download selected material out the whole bunch of files or just watch it online.
 
 #### limitations:
 
