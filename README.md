@@ -1,7 +1,6 @@
 # Udemy Courses Downloader
 
-## update:
-Search option added: Just enter course name when prompted and select desired course from the list. Rest will be handled by script. 
+**update: Search option added: Just enter course name when prompted and select desired course from the list. Rest will be handled by script. 
 PS : Its in beta version :p. If it doesn't work well follow the steps below.
 
 This is to download Udemy courses for free of cost with torrents without need to install any third party tool. This uses google collab to download the files using python library for torrents and stores it in your google drive. You can download selected material out the whole bunch of files or just watch it online.
