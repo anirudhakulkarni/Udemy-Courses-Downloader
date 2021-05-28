@@ -31,3 +31,5 @@ Search for the course torrent file with exact course name + torrent download on 
 3. Wait some time to collab to collect the meta data. Sometimes it might take time. You can close the window once you start running it
 4. You can use it download any torrent file without risk of viruses. Udemy courses is one of them
 5. No issue of malwares as you are only downloading .torrent file and not even opening it. Let Google handle all the security issues
+6. for udemy courses
+   Search on 1137x
