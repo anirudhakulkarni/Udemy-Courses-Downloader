@@ -1,4 +1,5 @@
 # Udemy Courses Downloader
+**I do not support piracy. The reason to create this project was to test torrents feasibility on google colab. If you still want to use it, use it at own risk.**
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anirudhakulkarni/Udemy-Courses-Downloader/blob/master/Torrent_downloader.ipynb)
 
@@ -35,7 +36,7 @@ Search for the course torrent file with exact course name + torrent download on 
 
 **Notes**:
 
-1. Use at own risk. Google collab is not meant for downloading pirated material
+1. I do not support piracy. Always purchase from authentic sources. If you still want to use, use at own risk. 
 2. Use spare google account for larger files
 3. Wait some time to collab to collect the meta data. Sometimes it might take time. You can close the window once you start running it
 4. You can use it download any torrent file without risk of viruses. Udemy courses is one of them
