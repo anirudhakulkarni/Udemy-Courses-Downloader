@@ -2,6 +2,7 @@
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anirudhakulkarni/Udemy-Courses-Downloader/blob/master/Torrent_downloader.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anirudhakulkarni/Udemy-Courses-Downloader/HEAD?filepath=Torrent_downloader.ipynb)
 
 **UPDATE: Search option added: Just enter course name when prompted and select desired course from the list. Rest will be handled by script. 
 PS : Its in beta version :p. If it doesn't work well follow the steps below.**
