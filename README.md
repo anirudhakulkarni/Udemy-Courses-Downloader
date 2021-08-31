@@ -4,6 +4,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anirudhakulkarni/Udemy-Courses-Downloader/HEAD?filepath=Torrent_downloader.ipynb)
 
+
+
 **UPDATE: Search option added: Just enter course name when prompted and select desired course from the list. Rest will be handled by script. 
 PS : Its in beta version :p. If it doesn't work well follow the steps below.**
 
@@ -40,3 +42,6 @@ Search for the course torrent file with exact course name + torrent download on 
 5. No issue of malwares as you are only downloading .torrent file and not even opening it. Let Google handle all the security issues
 6. for udemy courses
    Search on 1137x
+   
+   ![](https://anirudhakulkarni-visitor-badge.glitch.me/badge?page_id=anirudhakulkarni.torrentdownloader)
+
